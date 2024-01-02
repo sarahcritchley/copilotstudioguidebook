@@ -59,7 +59,7 @@ Then that information is used to in the body of the email to send to the user fo
 
 ![Image of example connector in Copilot Studio Step 2](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Images/dvconnector-plugin-example-step2.png?raw=true)
 
-// The YAML code is provided for illustratory purposes only for this example topic (and also the example used in the 'Power Automate Flows' example below) is available in the YAML code files in this reposortory. This topic will not work straight away as your own connection needs to be created within your environment, and you will likely get errors if you attempt to paste in the YAML without a connection to the connector used in the sample has not yet been created.
+// The YAML code is provided for illustratory purposes only for this example topic (and also the example used in the 'Power Automate Flows' example below) is available in the samples folder. This topic will not work straight away as your own connection needs to be created within your environment, and you will likely get errors if you attempt to paste in the YAML without a connection to the connector used in the sample has not yet been created.
 
 ### Power Automate Flows
 Power Automate Flows are a great way to run an encapsulated piece of logic from an authored topic in copilot studio. Power Automate Flow is classified as an action and has a specific entry and exit logic that 'bookends' the flow itself. If a flow is going to be run from copilot studio, these specific copilot studio entry and exit actions must be used. The easiest way to create a flow you intend to use with Power Automate is to create it from copilot studio.
@@ -76,7 +76,7 @@ The sample flow used in this example with Power Automate is very simple. It has 
 
 ![Image of Power Automate interaction with Copilot Studio Step 2](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Images/connector-plugin-example-step2.png?raw=true)
 
-// The YAML code is provided for illustratory purposes only for this example topic (and also the example used in the 'Power Automate Flows' example below) is available in the YAML code files in this reposortory. This topic will not work straight away as your own connection needs to be created within your environment, and you will likely get errors if you attempt to paste in the YAML without a connection to the connector used in the sample has not yet been created.
+// The YAML code is provided for illustratory purposes only for this example topic is available in the samples folder. This topic will not work straight away as your own connection needs to be created within your environment, and you will likely get errors if you attempt to paste in the YAML without a connection to the connector used in the sample has not yet been created.
 
 ### Plugin Actions (Coming soon)
 
