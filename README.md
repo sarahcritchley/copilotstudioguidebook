@@ -3,7 +3,7 @@
 **NOTE:**
 This collection of information is designed to be a goal based starting point for professionals who want to learn how to use Microsoft Copilot Studio to build custom copilots. This place is for beginners based on that specific goal, and this content will go through the basics by breaking down key concepts, terminology, and basic platform functionality for readers to start building their own copilot. It will include links to the official documentation for Microsoft Copilot Studio and could also contain other relevant links.
 
-*HOW TO USE THIS CONTENT*: . 
+*HOW TO USE THIS CONTENT*::: 
 
 There are three roles which you can select from based on what your looking to do:
 
@@ -14,6 +14,8 @@ There are three roles which you can select from based on what your looking to do
 Start at this homepage your reading now and work from top to bottom, this will give you the essential information. 
 
 Readers can click the built in URLs within the text to go learn specific things, and then return and continue on from where they left in the homepage. 
+
+Then when you have done, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project
 
 To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information is being curated. This content is going to be continuously updated on an ad-hoc basis 
 
