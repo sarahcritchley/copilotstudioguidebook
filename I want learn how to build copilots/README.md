@@ -1,1 +1,1 @@
-to be added
+Homepage Coming Soon
