@@ -15,7 +15,7 @@ Start at this homepage your reading now and work from top to bottom, this will g
 
 Readers can click the built in URLs within the text to go learn specific things, and then return and continue on from where they left in the homepage. 
 
-Then when you have done, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project
+Then when you have completed this homepage, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project and move on to the homepage in the relevant folder.
 
 To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information is being curated. This content is going to be continuously updated on an ad-hoc basis 
 
