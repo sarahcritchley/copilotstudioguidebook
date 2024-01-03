@@ -70,7 +70,7 @@ Other suggestions on showcasing the authoring canvas can include:
       - information on the product
       - product description
 
-  actions:
+    - actions:
     - kind: Question
       id: Question_2SkQIw
       variable: Topic.ProductType

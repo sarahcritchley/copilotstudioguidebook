@@ -10,7 +10,7 @@ Custom Prompts with Generative Answers is only available using the node within t
 
 3. Configure your datasources, by selecting 'Edit' on the node, selecting Datasources on the right hand panel and adding your data. The sample below and in the screenshots uses the Microsoft website.
 
-![Image of configuring datasources](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Images/Power-Automate-Flow-Action-Example.png?raw=true)
+![Image of configuring datasources](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Images/configuredatasources.png?raw=true)
 
 4. Click back on the right hand panel and you should see a text box called 'Custom Instructions' (preview)
 

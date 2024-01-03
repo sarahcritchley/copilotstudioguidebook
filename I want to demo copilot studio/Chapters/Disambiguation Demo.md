@@ -24,7 +24,7 @@ The goal is to *avoid disambiguation* all together by ensuring your manually aut
 
 To demo this, it would be recommended to purposefully create two topics which have obvious overlap. Included in the sample below are two topics which clearly overlap. When asked about 'providing product information because I have questions', you can see the disambuguation process occuring:
 
-![Image of disambiguation example in Copilot Studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Images/Power-Automate-Flow-Action-Example.png?raw=true)
+![Image of disambiguation example in Copilot Studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Images/disambiguation%20example.png?raw=true)
 
 ### Key Demo Highlights
 

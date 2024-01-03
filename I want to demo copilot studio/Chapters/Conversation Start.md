@@ -4,7 +4,7 @@ This page covers a short walkthrough on setting up Conversation Start behaviour 
 ## Configure Conversation Start
 Conversation Start is the first message sent by the Copilot to the user. This message by default is set to run automatically and it is run from the system topic 'Conversation Start' system topic.
 
-![Image of Conversation Start behaviour in Copilot Studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Images/Power-Automate-Flow-Action-Example.png?raw=true)
+![Image of Conversation Start behaviour in Copilot Studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Images/Conversation%20Start%20.png?raw=true)
 
 The default behaviour is a message node with text.
 
