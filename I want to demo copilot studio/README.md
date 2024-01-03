@@ -18,7 +18,7 @@ Future versions I will plan to include sections on positioning, introductory and
 
 That said let's dive in.
 
-## Create your Environment
+## Create your Demo Environment
 
 Microsoft Partners should have access to the [Customer Digital Experience (CDX) platform](https://cdx.transform.microsoft.com/). If you do not, you need to ask your Partner Development Manager or Practice Leaders for access. An alternative option is to configure and setup a developer account, however requires much more work and steps including using your own personal email. If you wish to go down this route, a step by step guide on setting up a developer account is [here](https://microsoftcopilotstudio.microsoft.com/en-us/blog/signing-up-for-a-developer-plan-for-power-virtual-agents/#:~:text=Getting%20started%3A%201%201.%20Obtain%20a%20personal%20account,4.%20Get%20creating%20with%20Power%20Virtual%20Agents%20).
 
