@@ -46,5 +46,3 @@ The YAML is below with the edits shown above of the Fallback Count number being 
             id: 5aXj5M
             dialog: crf24_copilotGuideSamples.topic.Escalate
 
-
-## Configure Fallback (Additional Examples Coming Soon)

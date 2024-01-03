@@ -40,11 +40,11 @@ Remember in Microsoft Copilot Studio you can access the YAML code for each topic
 
 You should look at configuring the following features and capabilities. Each item links to their respective pages which includes YAML code where relevant:
 
-* Generative Answers
+* [Generative Answers](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Generative%20Answers%20Demo.md) 
 
 * Create a manually authored topic to showcase the authoring canvas (and demostrate creating one using Copilot)
 
-* Fallback
+* [Fallback](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Fallback%20Demo.md) 
 
 * Disambuguation
 
@@ -64,4 +64,4 @@ Of course, it doesn't stop there, this is a quick start guide to a demonstration
 
 ## Presentation Material
 
-You should have access to the presentation material in the Power Platform Partner Hub which can be accessed via the Go To Market Tab (you need to be signed in).
+You should have access to the presentation material, which includes the pitch deck, in the Power Platform Partner Hub which can be accessed via the Go To Market Tab (you need to be signed in).
