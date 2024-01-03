@@ -20,7 +20,7 @@ This is a starting point and will continue to evolve as this content gets update
 
 4. Use Generative Answers within a node and try [Custom Prompts](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Chapters/Prompts%20in%20Generative%20Answers.md)
 
-5. Generative Actions (Coming soon)
+5. Generative Actions (coming soon)
 
 ## Add standard good practices
 
@@ -28,9 +28,9 @@ This is a starting point and will continue to evolve as this content gets update
 
 2. Understanding [Disambiguation](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Chapters/Disambiguation%20Basics.md) (and Trigger Phrase best practices)
 
-3. Conversation Start and update the welcome message
+3. Conversation Start and update the welcome message (coming soon)
 
-4. Escalate Topic Configuration
+4. Escalate Topic Configuration (coming soon)
 
 *More content coming soon!*
 
