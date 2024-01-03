@@ -7,8 +7,8 @@ This collection of information is designed to be a goal based starting point for
 
 There are three roles which you can select from based on what your looking to do:
 
-* I want to learn how to build copilots in copilot studio
-* I want to demo copilot studio (coming soon)
+* [I want to learn how to build copilots in copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/README.md)
+* [I want to demo copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/README.md)
 * I am starting a copilot studio project (coming soon)
 
 Start at this homepage your reading now and work from top to bottom, this will give you the essential information. 
@@ -80,7 +80,15 @@ Go check out these official docs which provide a guided experience on key tasks 
 
 * Publish your bot: https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels?tabs=preview
 
-## Common Tools and Assets (Public)
+## Next Steps
+
+Based on what your goals select the links below to continue your journey and expand your knowledge:
+
+* [I want to learn how to build copilots in copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/README.md)
+* [I want to demo copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/README.md)
+* I am starting a copilot studio project (coming soon)
+
+## Resources
 Here is a list of resources which will be updated available in the public domain that will help you on your journey.
 
 * Copilot Studio Playbook - note this is formatted with our foundational product, Power Virtual Agents, and is relevant too for Microsoft Copilot Studio: [Access the playbook here](https://aka.ms/pvaplaybook) 
@@ -89,7 +97,7 @@ Here is a list of resources which will be updated available in the public domain
 
 * Copilot Studio in a Day (CiaD) - Guided Microsoft Learn Student material accessed [here](https://learn.microsoft.com/en-us/training/paths/power-virtual-agents-workshop/)
 
-## Microsoft Partner Specific Links 
+### Microsoft Partner Specific Links 
 
 * If you are a Microsoft Partner and want to grow your knowledge, check out the Microsoft Copilot Studio Partner Growth Plan [here](https://aka.ms/copilotstudio/partnergrowthplan)
 
