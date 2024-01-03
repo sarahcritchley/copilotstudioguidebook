@@ -10,9 +10,9 @@ This question normally gets asked of the user of the Copilot. Out of the box, th
 
 *'To clarify, did you mean:*
 
-*Option X*
-*Option Y*
-*Option Z'*
+* Option X
+* Option Y
+* Option Z
 
 Where options X, Y, Z would change depending on the topics within the clarification state.
 
