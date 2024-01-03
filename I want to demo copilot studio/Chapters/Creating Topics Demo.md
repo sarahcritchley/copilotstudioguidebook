@@ -25,6 +25,8 @@ The example below is a simple product information type scenario. Change the scen
 
 *When a customer asks about product information and product details of the type of items that are sold, ask the question what types of products are they interested in, and offer two options for the customer to select, laptop or game consoles*
 
+![Image of the built in Copilot](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Images/built-in-copilot.png?raw=true)
+
 4. This will create the trigger phrases and a few message and question nodes automatically for you to get started with.
 
 5. Add a new condition by selecting + at the bottom of the branch in the authoring canvas and create two new branches based on the variable value being either 'Games Consoles' or 'Laptops'. You will need to select the '+' icon in the middle of the condition to add the second branch.
