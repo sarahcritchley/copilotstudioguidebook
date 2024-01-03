@@ -52,6 +52,8 @@ You should look at configuring the following features and capabilities. Each ite
 
 * Modifying [the Conversation Start](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Conversation%20Start.md)
 
+* Include plugins such as Power Automate to show utilizing external data (specific demo guide coming soon, but [start here](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20learn%20how%20to%20build%20copilots/Chapters/Copilot%20Studio%20Plugins.md))
+
 * Modifying Generative Answers to check for keywords or phrases (coming soon)
 
 * Expand Gen Answers data sources to 3P and more e.g. sharepoint (coming soon)
