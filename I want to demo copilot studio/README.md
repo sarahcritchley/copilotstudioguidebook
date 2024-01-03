@@ -42,17 +42,17 @@ You should look at configuring the following features and capabilities. Each ite
 
 * [Generative Answers](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Generative%20Answers%20Demo.md) 
 
-* Create a manually authored topic to showcase the authoring canvas (and demostrate creating one using Copilot)
+* Create a [manually authored topic](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Creating%20Topics%20Demo.md) to showcase the authoring canvas (and demostrate creating one using Copilot)
 
 * [Fallback](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Fallback%20Demo.md) 
 
-* Disambuguation
+* [Disambuation](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Disambiguation%20Demo.md)
 
-* Add Generative Answers inside a node and include custom prompt
+* Add [Generative Answers inside a node and include custom prompt](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Custom%20Prompt%20Demo.md)
 
-* Modifying the Conversation Start
+* Modifying [the Conversation Start](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/Chapters/Conversation%20Start.md)
 
-* Modifying Generative Answers to check for keywords or phrases 
+* Modifying Generative Answers to check for keywords or phrases (coming soon)
 
 * Expand Gen Answers data sources to 3P and more e.g. sharepoint (coming soon)
 
