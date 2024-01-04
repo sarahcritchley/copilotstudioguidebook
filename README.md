@@ -36,7 +36,7 @@ If you are new to building applications that take natural language as the input,
 * When we build conversational experiences, we are building conversations and use AI technology to help manage that variability of natural language.
 * Somebody would have asked you to 'rephrase that' at some point in your life. What did you do? Say the same thing, but differently. This shows a small part of the variability of natural language.
 
-*Ultimately*, when building conversational experiences within copilots, we try to correctly descipher the intent or intents from a target users question and 'react' or answer that question if it is appropriate to do so. Additionally, and where applicable, we can configure the copilot to perform an action or some sort of automation as part of that reaction. All whilst providing a positive experience for the user that makes sense based on what they are using the copilot for.
+*Ultimately*, when building conversational experiences within copilots, we try to correctly decipher the intent or intents from a target users question and 'react' or answer that question if it is appropriate to do so. Additionally, and where applicable, we can configure the copilot to perform an action or some sort of automation as part of that reaction. All whilst providing a positive experience for the user that makes sense based on what they are using the copilot for.
 
 ## What is Microsoft Copilot Studio 
 
