@@ -3,13 +3,13 @@
 **NOTE:**
 This collection of information is designed to be a goal based starting point for professionals who want to learn how to use Microsoft Copilot Studio to build custom copilots. 
 
-This place is for beginners based on a specific goal. This content will go through the basics by breaking down key concepts, terminology, and basic platform functionality. It will include links to the official documentation for Microsoft Copilot Studio and could also contain other relevant links.
+This place is for beginners based on a specific goal. This content will go through the basics by breaking down key concepts, terminology, and basic platform functionality. It will include links to the official documentation for Microsoft Copilot Studio and could also contain other relevant links. Currently, we intent to grow the knowledge here to include more advanced content and are open to suggestions where they fit into the current layout & structure.
 
 *HOW TO USE THIS CONTENT*::: 
 
 Start at this homepage your reading now and work from top to bottom, this will give you the essential information. 
 
-Readers can click the built in URLs within the text to go learn specific things, and then return and continue on from where they left in the homepage. 
+Readers can click the built-in URLs within the text to go learn specific things, and then return and continue on from where they left in the homepage. 
 
 There are three roles that you can select from based on what your looking to do:
 
@@ -17,11 +17,11 @@ There are three roles that you can select from based on what your looking to do:
 * [I want to demo copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/README.md)
 * I am starting a copilot studio project (coming soon)
 
-Then when you have completed this homepage, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project and move on to the homepage in the relevant folder.
+Then when you have reviewed the content on this homepage, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project and move on to the homepage in the relevant folder.
 
-To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information is being curated. 
+To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information continues to be curated. 
 
-This content is going to be updated on an ad-hoc basis.
+This content will be updated on an ad-hoc basis.
 
 ---
 
