@@ -17,7 +17,7 @@ There are three roles that you can select from based on what your looking to do:
 * [I want to demo copilot studio](https://github.com/sarahcritchley/copilotstudioguidebook/blob/main/I%20want%20to%20demo%20copilot%20studio/README.md)
 * I am starting a copilot studio project (coming soon)
 
-Then when you have reviewed the content on this homepage, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project and move on to the homepage in the relevant folder.
+After you have reviewed the content on this homepage, click the folder most relevant to what you are trying to do e.g. complete a demo, learn how to build copilots, or start a project to move on to the next homepage in the relevant area you have selected.
 
 To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information continues to be curated. 
 
