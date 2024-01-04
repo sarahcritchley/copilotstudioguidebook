@@ -76,14 +76,14 @@ Go check out these official docs which provide a guided experience on key tasks 
 
 ---
 
-* Create a copilot: https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-first-bot?tabs=web
+* 1. [Create a Copilot with Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-first-bot?tabs=web)
 
-* Connect to a website or another datasource using Generative Answers: https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-boost-conversations
+* 2. [Connect to a website or other datasource with Generative Answers](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-boost-conversations)
 
-* Author topics within the studio using Copilot: https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-gpt-overview
-    * or manually: https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-fundamentals?tabs=web
+* 3. [Author topics](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-gpt-overview) within the studio using Copilot 
+    * or [manually](https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-fundamentals?tabs=web)
 
-* Publish your bot: https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels?tabs=preview
+* 4. [Understand the publishing process for your Copilot](https://learn.microsoft.com/en-us/microsoft-copilot-studio/publication-fundamentals-publish-channels?tabs=preview)
 
 ## Next Steps
 
