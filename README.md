@@ -106,4 +106,4 @@ Here is a list of resources which will be updated available in the public domain
 
 * If you are a Microsoft Partner and want to grow your knowledge, check out the Microsoft Copilot Studio Partner Growth Plan [here](https://aka.ms/copilotstudio/partnergrowthplan)
 
-* Check out the Dynamics and Power Platform Partner Hub for updated decks and information to help help drive conversations
+* Check out the Dynamics and Power Platform Partner Hub for updated decks and information to help and support your conversations
