@@ -43,11 +43,12 @@ If you are new to building applications that take natural language as the input,
 * Microsoft Copilot Studio is where your organizations can build your their custom copilots, their way
 * A copilot is a conversational experience that utilizes Generative AI features from Microsoft with the aim that it acts as a 'copilot' to a human being
 * You do not need to have developer experience to use Microsoft Copilot Studio to build Copilot
-* Microsoft Copilot Studio is SaaS based and does not require any additional infrastructure to be provisioned to run many of the features, including it's built in Generative AI features
-* This is distinct and in most cases, in addition to standard Conversational AI experiences that utilize NLU and NLP technology 
+* Microsoft Copilot Studio is SaaS based and does not require any additional infrastructure to be provisioned to run many of the features, including the built-in Generative AI features
+* Microsoft Copilot Studio's Generative AI Features ar distinct and in most cases, in addition to, standard Conversational AI experiences that utilize NLU and NLP technology 
 * Microsoft Copilot Studio is pre-built with an out of the box NLU. More information can be found [here](https://learn.microsoft.com/en-us/microsoft-copilot-studio/nlu-gpt-quickstart) on the NLU.
+* You can switch the out of the box NLU with your own Azure CLU model if you want to
 * Microsoft Copilot Studio is available in various ways within Microsoft Business Applications technology. For example, it is available on it's own as a message based licence or together with Copilot for Microsoft 365.
-* With your Copilot workflow in the studio experience, makers can also utilize plugins that are AI plugins using AI Builder, Plugins for M365 or coming soon, even utilize OpenAI GPTs
+* With your Copilot workflow in the studio experience, makers can also utilize plugins that are AI plugins using AI Builder, Plugins for M365 and more.
 
 ### What you need to know 
 
