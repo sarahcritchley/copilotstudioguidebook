@@ -21,7 +21,7 @@ After you have reviewed the content on this homepage, click the folder most rele
 
 To read the content in a more ad-hoc way, navigate to the 'Chapters' subfolder in each section and select a specific item. Some subfolders will still be blank as the information continues to be curated. 
 
-This content will be updated on an ad-hoc basis.
+This content will be updated on an ad-hoc basis, and any samples are provided for informational purposes are not intended to be used in production.
 
 ---
 
